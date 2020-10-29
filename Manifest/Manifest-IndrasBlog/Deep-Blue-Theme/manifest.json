@@ -1,0 +1,38 @@
+{
+  "name": "Indra's Blog | Blog Berbagi Informasi Teknologi",
+  "short_name": "Indra's Blog",
+  "start_url": "https://www.indradp.com/",
+  "display": "standalone",
+  "background_color": "#547a92",
+  "theme_color": "#547a92",
+  "description": "Blog yang membahas berbagai hal tentang teknologi, mulai dari tutorial, tips, trik, editorial, berita teknologi, review gadget, dan aplikasi gratis.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/--SjC5YwzxEg/XgIughVWcTI/AAAAAAAAHqQ/tJsr7sHMAVwaEGVADe_bpJc_cY9cdY2xQCLcBGAsYHQ/s48/icon48-indrasblog.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LFm0gIlQO6U/XgIuhKiBqGI/AAAAAAAAHqY/POa1LXZgz2gv2H7QujVlI2lh75zt12u1gCLcBGAsYHQ/s72/icon72-indrasblog.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Riod5pTTSuU/XgIuhlkr0TI/AAAAAAAAHqc/g1S5i40QeTU3dc0MsTwix2CiHLhicxm9wCLcBGAsYHQ/s96/icon96-indrasblog.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-jy-sSvOJAzQ/XgIuflOzxkI/AAAAAAAAHqM/j5S97Zvh0LgQZ7T3jNknFM9Sc2VQZpL8ACLcBGAsYHQ/s144/icon144-indrasblog.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-jPQ0bPx85AM/XgIufltxdmI/AAAAAAAAHqI/F1t3elzq32YUfnTQUv490vyxQKOmNUMSQCLcBGAsYHQ/s168/icon168-indrasblog.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9ZJigHkG5WQ/XgIufiWEoiI/AAAAAAAAHqE/6_N2-YBr2SoWT2i9r_rqJRBb5wNME6ESQCLcBGAsYHQ/s192/icon192-indrasblog.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-kpr5L-_Ijj8/XgIuhAwSrLI/AAAAAAAAHqU/oB8MHnAEUY4SLqEJljTDrDwfNi9NF12_wCLcBGAsYHQ/s512/icon512-indrasblog.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
