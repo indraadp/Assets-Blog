@@ -3,8 +3,8 @@
   "short_name": "Indra's Blog",
   "start_url": "https://www.indradp.com/",
   "display": "standalone",
-  "background_color": "#332d4f",
-  "theme_color": "#332d4f",
+  "background_color": "#2e3778",
+  "theme_color": "#2e3778",
   "description": "Blog yang membahas berbagai hal tentang teknologi, mulai dari tutorial, tips, trik, editorial, berita teknologi, review gadget, dan aplikasi gratis.",
   "icons": [{
     "src": "https://1.bp.blogspot.com/--SjC5YwzxEg/XgIughVWcTI/AAAAAAAAHqQ/tJsr7sHMAVwaEGVADe_bpJc_cY9cdY2xQCLcBGAsYHQ/s48/icon48-indrasblog.png",
