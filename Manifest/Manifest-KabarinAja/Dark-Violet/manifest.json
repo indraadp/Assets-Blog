@@ -1,0 +1,38 @@
+{
+  "name": "KabarinAja.com",
+  "short_name": "KabarinAja.com",
+  "start_url": "https://www.kabarinaja.com/",
+  "display": "standalone",
+  "background_color": "#6a0276",
+  "theme_color": "#6a0276",
+  "description": "Blog yang mengabarkan berbagai informasi menarik seputar dunia bisnis, keuangan, investasi, lifestyle, teknologi, otomotif, edukasi dan lainnya.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgf3VFzuhHsK_f5J0IwH8dATGMQsJ2W705fH01brb1sBW-u_NGbINN8XWdp0d2Kc_UpmkHzL_2Y8taCsO36yXyZ-PMJftBODHWJsTSluBWzrxLXIrxrgqmCt8ZoQOeWq0gotgge2YADtoKR3EVUMOZlmjzYAIG0UucmBuJMTJHOJ27_yixL6O9OJY2/s1600/icon48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQLcSZbuD_qwiMsxW7jh6y4qVC9HegXG3eF6Eg7WdL3sdcksGtz5pg3az6tiKxpNapd8JUVS8RmZjrzZxz805X4dJPUs9gIM67KaGqu0KDDxr9yB2t03ttf_WsOtEMzlIDCMBanjoJyficz_VbBK0gjC-0YjbR_jUAL-sXGpdzjNcq4K2etBSxX-ve/s1600/icon72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYkqKfVQjmV7ro8LNacqQay_C1MGoJQrM_UtrXk_x_38hU0Nk9A9OyKKMze7E4WrXBPp0k4vZaeaqjJ6wjeECusuNlirMAaz-eGD5AVqP4nxZRzY8FAuHDLEeDZDcPyJ7S1i7bM0a9wBeVdUtZzPTMC3ThhHeTIHI4VswfjTDk8bWR8ubnpRk1nO5G/s1600/icon96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1ynMSx8ftJsOWBjny0waW9-6Mwwq20F_3X7UAuP-gHwen5d694w1VZdkXhoBRIf9mBp2DQRX2_UFMni_YXxMGr75t0NVz5u5yjW-UKL_lF4m9p4sC5E54qutBN7u06KbWFchG-itEK4IsPtYWDWVPw49rv-_aPe43MQavY_CnjAkdCksqllCGywZ/s1600/icon144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMUqaFZ_CQt7PfaId7HcoQFdBUbNAjjg_AH2YrX6on2W2AM2tJrx0bC-TSTRQ0hVlN50iTQjWHxq_gw5hEBl5i8Indx_I0ePpCqF9PlVT2QOV8E9Orccjm5gbdzXGZijXBIGr_oaKVoSZPOiG7Ay3iBlmLvgxs5a3owkxilnyRiyT45bFr60OPuAdL/s1600/icon168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPrPphaQqLjIiO3yFzHmTMeWKABM4ag37650nMRshkfXXliB-Gmc_X0w9dINTpw2gzA9FvHJ8QyEXYnocS4GNMxz-nLWlKsCvNjQ_0rjsIgJ51Gv5sCSTjjHMzz4kTiCG5MG-oO3nltYLaxWgbXoNdZvk9beYwWrMU006Pz1UkTnHTABhpMYkzq9-y/s1600/icon192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKtswrlx7JuUaO69nbEbiop8vs6mrXrJ0nK8aglXOGHtQ5nNvm4MAV2sUDj1b60khmABZmuvRYTqPjhc5U9Wp_ayGZ1WhMGfbfm9qpzN01kWKOPF6oUtW7b1BufVW9OmISyf0Pm8WZbTTYEC7gJNbGhnrFJGSY6KyEzahZm7j3CiAapHvdC8M7Nbk0/s1600/icon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
